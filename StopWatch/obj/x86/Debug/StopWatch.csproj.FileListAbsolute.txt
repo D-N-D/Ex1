@@ -1,0 +1,5 @@
+/Users/dimitardimitrov/Projects/StopWatch/StopWatch/bin/Debug/StopWatch.exe
+/Users/dimitardimitrov/Projects/StopWatch/StopWatch/bin/Debug/StopWatch.pdb
+/Users/dimitardimitrov/Projects/StopWatch/StopWatch/obj/x86/Debug/StopWatch.csproj.CoreCompileInputs.cache
+/Users/dimitardimitrov/Projects/StopWatch/StopWatch/obj/x86/Debug/StopWatch.exe
+/Users/dimitardimitrov/Projects/StopWatch/StopWatch/obj/x86/Debug/StopWatch.pdb

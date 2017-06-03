@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{53BB3F51-A681-4D02-A3B1-EA1D9EBC7DE6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Post PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Post/Program.cs">
+    <Files>
+      <File FileName="Post/Program.cs" Line="26" Column="3" />
+      <File FileName="Post/Post.cs" Line="34" Column="10" />
+      <File FileName="StopWatch/Stopwatch.cs" Line="50" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StopWatch PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
